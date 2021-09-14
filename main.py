@@ -102,7 +102,7 @@ def main():
            er = 1
 
 
-   print('Game over!')
-   print(player+' wins!!')
+   print('Game Over!')
+   print(player+' Wins!!')
 
 main()
